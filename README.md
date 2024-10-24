@@ -37,7 +37,7 @@ Frontend Implementation:
 Database Schema:
 
 - coffees table:
-    - id (primary key)
+    - id 
     - name
     - description
     - price
